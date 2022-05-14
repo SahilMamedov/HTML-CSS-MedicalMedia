@@ -27,6 +27,7 @@ width: 20px;
     margin-left: 35px;
 }
 .input{
+    
     background: #fff;
     border-radius: 12px;
     font-weight: 400;
@@ -34,6 +35,18 @@ width: 20px;
     border: none;
     padding: 10px 10px 10px 55px;
     width: 220px;
+}
+.search{
+    position: relative;
+}
+.btn-search{
+    border: none;
+   position: absolute;
+   top: 10px;
+   left: 15px;
+   background-color: #fff;
+   
+
 }
 
 
