@@ -1,7 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .logo img{
     height: 52px;
     width: 135px;
     
+}
+body{
+    font-family: Poppins;
 }
 header{
     background-color: #007bff;
@@ -9,5 +17,23 @@ header{
 }
 header a{
     color: #fff;
-    font-family: 'Poppins', sans-serif;
+    
 }
+.img{
+width: 20px;
+
+}
+.search a{
+    margin-left: 35px;
+}
+.input{
+    background: #fff;
+    border-radius: 12px;
+    font-weight: 400;
+    font-size: 16px;
+    border: none;
+    padding: 10px 10px 10px 55px;
+    width: 220px;
+}
+
+
