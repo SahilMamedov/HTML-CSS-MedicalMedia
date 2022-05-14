@@ -1,6 +1,13 @@
 .logo img{
     height: 52px;
     width: 135px;
-    background-color: aqua;
     
+}
+header{
+    background-color: #007bff;
+    
+}
+header a{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
 }
