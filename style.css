@@ -12,7 +12,7 @@ body{
     font-family: Poppins;
 }
 header{
-    background-color: #007bff;
+    background-color:  #047eb3
     
 }
 header a{
@@ -45,8 +45,52 @@ width: 20px;
    top: 10px;
    left: 15px;
    background-color: #fff;
-   
-
 }
+.menu-list{
+    list-style: none;
+    color: #fff;
+}
+body a{
+      text-decoration: none;
+      color: #fff;
+}
+.header-menu{
+    background-color:  #047eb3;
+    border-top: 1px solid hsla(0,0%,100%,.24);
+   
+    
+}
+.sub-link{
+    display: block;
+}
+.sub-menu{
+    position: relative;
+}
+.dropdown{
+    position: absolute;
+    top: 100%;
+    left: -20px;
+    background: rgb(228, 59, 59);
+    box-shadow: 0 0 10px 4px rgb(61 61 61 / 7%);
+    border-radius: 4px;
+    padding: 10px;
+    z-index: 2;
+    min-width: 200px;
+    
+    
+}
+.sub-menu{
+   
+}
+
+.sub-link{
+   
+    font-size: 16px;
+    line-height: 24px;
+    color: #00415c;
+    padding: 10px;
+    display: block;
+}
+
 
 
