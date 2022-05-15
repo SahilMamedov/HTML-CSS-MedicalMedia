@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .logo img{
     height: 52px;
     width: 135px;
@@ -116,11 +117,29 @@ body a{
     margin-top: 1px;
 
     box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
-    
 
- 
-    
 }
+.footer-wrapper{
+    padding: 0 85px;
+}
+.footer{
+    background: #047eb3;
+}
+.footer-logo{
+    padding-right: 140px;
 
+}
+.footer-logo p{
+    color: white;
+}
+.f-logo{
+    margin-bottom: 28px;
+}
+h4{
+    color: white;
+}
+.copyright{
+    font-size: 15px;
+}
 
 
