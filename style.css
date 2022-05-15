@@ -57,33 +57,32 @@ body a{
 .header-menu{
     background-color:  #047eb3;
     border-top: 1px solid hsla(0,0%,100%,.24);
-   
+   padding-bottom: 3px;
     
 }
-.sub-link{
-    display: block;
-}
-.sub-menu{
-    position: relative;
-}
+
+
 .dropdown{
     position: absolute;
-    top: 100%;
+    top: 70px;
     left: -20px;
     background: rgb(228, 59, 59);
     box-shadow: 0 0 10px 4px rgb(61 61 61 / 7%);
     border-radius: 4px;
-    padding: 10px;
+    padding: 10px; 
     z-index: 2;
-    min-width: 200px;
+     min-width: 200px; 
+    display: none;
+  
     
-    
-}
-.sub-menu{
-   
 }
 
-.sub-link{
+/* .sub-menu:hover .dropdown {
+    position: relative;
+    
+} */
+
+.sub-linkk{
    
     font-size: 16px;
     line-height: 24px;
@@ -91,6 +90,25 @@ body a{
     padding: 10px;
     display: block;
 }
-
+.sub-link{
+    display: block;
+}
+.section-title{
+    background-color:  #047eb3;
+    border-radius: 8px;
+   
+    color: #fff;
+}
+.title{
+    margin-bottom: 0;
+}
+.project img{
+    border-radius: 8px;
+}
+.content{
+    color: #00415c;
+    font-size: 20px;
+    font-weight: 600;
+}
 
 
