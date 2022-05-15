@@ -112,11 +112,13 @@ body a{
     font-weight: 600;
 }
 .card{
-    margin: 0 16px;
-    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
-    /* border: 1px solid hsla(0,0%,94.5%,.54); */
+    margin: 32px 16px;
+    margin-top: 1px;
 
-   border-radius: 8px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    
+
+ 
     
 }
 
