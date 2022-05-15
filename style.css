@@ -126,8 +126,7 @@ body a{
     background: #047eb3;
 }
 .footer-logo{
-    padding-right: 140px;
-
+   
 }
 .footer-logo p{
     color: white;
@@ -139,7 +138,13 @@ h4{
     color: white;
 }
 .copyright{
-    font-size: 15px;
+    font-size: 12px;
+}
+.links{
+    margin-bottom: 20px;
+}
+.f-menu{
+    font-size: 12px;
 }
 
 
